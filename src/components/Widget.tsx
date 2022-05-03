@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import {ChatTeardropDots} from 'phosphor-react'
 import { Popover } from '@headlessui/react'
 
