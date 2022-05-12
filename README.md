@@ -8,3 +8,7 @@
 - Tailwind - CSS
 - Phosphor - Icons
 - headlessui - UI Components
+
+### Dependencies:
+- Node Backend: https://github.com/areamluersen/nlw8-backend
+- Postgres Database: The backend project has the database structure in sql. 
